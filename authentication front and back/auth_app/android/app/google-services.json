@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "270621649409",
+    "project_id": "flutter-signin-augu",
+    "storage_bucket": "flutter-signin-augu.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:270621649409:android:ae489562cfe5662131ee00",
+        "android_client_info": {
+          "package_name": "com.augustolaba.flutterauthapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "270621649409-m7nse5rl8kq2p684ke3icsh31tqoj0sb.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.augustolaba.flutterauthapp",
+            "certificate_hash": "f3767efa6e9ec2f54eecd1a1d2299baf7002b023"
+          }
+        },
+        {
+          "client_id": "270621649409-adsp2d1m5j0sd4ich18u1cujbpacn5td.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBRx-20WhCevfMdV-pxUdJ_Vfw8FBrdPVA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "270621649409-adsp2d1m5j0sd4ich18u1cujbpacn5td.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
